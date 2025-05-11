@@ -16,5 +16,5 @@
         "(?<currentValue>[\\w+\\.\\-]*)['\",;]*\\s*#\\s?renovate: (?<datasource>\\S+)=(?<depName>\\S+)\\s?(registry=(?<registryUrl>\\S+))?\\s?(versioning=(?<versioning>\\S+))?"
       ]
     }
-  ],
+  ]
 }
