@@ -1,4 +1,4 @@
-FROM myoung34/github-runner:2.323.0
+FROM myoung34/github-runner:2.324.0
 
 RUN apt-get update \
     && \
